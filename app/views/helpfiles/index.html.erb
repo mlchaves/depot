@@ -1,0 +1,22 @@
+<h1>Listing helpfiles</h1>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Url</th>
+  </tr>
+
+<% for helpfile in @helpfiles %>
+  <tr>
+    <td><%=h helpfile.title %></td>
+    <td><%=h helpfile.url %></td>
+    <td><%= link_to 'Show', helpfile %></td>
+    <td><%= link_to 'Edit', edit_helpfile_path(helpfile) %></td>
+    <td><%= link_to 'Destroy', helpfile, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New helpfile', new_helpfile_path %>

@@ -1,0 +1,13 @@
+<p>
+  <b>Title:</b>
+  <%=h @helpfile.title %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%=h @helpfile.url %>
+</p>
+
+
+<%= link_to 'Edit', edit_helpfile_path(@helpfile) %> |
+<%= link_to 'Back', helpfiles_path %>

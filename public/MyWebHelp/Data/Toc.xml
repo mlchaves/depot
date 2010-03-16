@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Welcome" Link="/Content/Welcome.htm" ComputedResetPageLayout="true" ComputedFirstTopic="true" />
+    <TocEntry Title="Introduction" Link="/Content/Introduction.htm" ComputedFirstTopic="false" />
+    <TocEntry Title="What's new" Link="/Content/Whats new.htm" ComputedFirstTopic="false" />
+    <TocEntry Title="Getting_Started" ComputedFirstTopic="false">
+        <TocEntry Title="Getting Started" Link="/Content/Getting_Started/Getting Started.htm" ComputedFirstTopic="false" />
+        <TocEntry Title="Procedure 1" Link="/Content/Getting_Started/Procedure 1.htm" ComputedFirstTopic="false" />
+        <TocEntry Title="Procedure 2" Link="/Content/Getting_Started/Procedure 2.htm" ComputedFirstTopic="false" />
+    </TocEntry>
+    <TocEntry Title="Using" ComputedFirstTopic="false">
+        <TocEntry Title="Overview a" Link="/Content/Using/Overview a.htm" ComputedFirstTopic="false" />
+        <TocEntry Title="Procedure 1a" Link="/Content/Using/Procedure 1a.htm" ComputedFirstTopic="false" />
+        <TocEntry Title="Procedure 2a" Link="/Content/Using/Procedure 2a.htm" ComputedFirstTopic="false" />
+    </TocEntry>
+    <TocEntry Title="Contacting" ComputedFirstTopic="false">
+        <TocEntry Title="Information" Link="/Content/Contacting/Information.htm" ComputedFirstTopic="false" />
+    </TocEntry>
+</CatapultToc>

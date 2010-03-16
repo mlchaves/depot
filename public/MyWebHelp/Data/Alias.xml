@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile DefaultSkinName="HTML Help Window">
+    <Map Name="info" Link="Contacting/Information.htm" ResolvedId="1" />
+    <Map Name="proc_1" Link="Using/Procedure 1a.htm" ResolvedId="1" />
+</CatapultAliasFile>

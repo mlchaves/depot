@@ -1,0 +1,82 @@
+-- Compile started at Tuesday, May 19, 2009 12:56:59 PM
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Documents and Settings\mchaves\My Documents\Apps\GLUE\Global Rollout\Reference Docs\Manuals\WebStudio\Build\NavigationTabsAndMenus.chm
+
+images\collapse.gif
+images\copycode.gif
+images\copycodeHighlight.gif
+images\drpdown.gif
+images\drpdown_orange.gif
+images\expand.gif
+images\toolbar\addtofavorites.gif
+images\toolbar\addtofavoriteshot.gif
+images\toolbar\deletesm.gif
+images\toolbar\favorites.gif
+images\toolbar\favoriteshot.gif
+images\toolbar\index.gif
+images\toolbar\indexhot.gif
+images\toolbar\navback.gif
+images\toolbar\navbackhot.gif
+images\toolbar\navforward.gif
+images\toolbar\navforwardhot.gif
+images\toolbar\navhome.gif
+images\toolbar\navhomehot.gif
+images\toolbar\navrefresh.gif
+images\toolbar\navrefreshhot.gif
+images\toolbar\print.gif
+images\toolbar\printhot.gif
+images\toolbar\resetsearch.gif
+images\toolbar\resetsearchhot.gif
+images\toolbar\search.gif
+images\toolbar\searchhot.gif
+images\toolbar\seperator.gif
+images\toolbar\tabfavorites.gif
+images\toolbar\tabindex.gif
+images\toolbar\tabsearch.gif
+images\toolbar\tabtoc.gif
+images\toolbar\toc.gif
+images\toolbar\tochot.gif
+images\toolbar\togglenav.gif
+images\toolbar\togglenavhot.gif
+script\fts.js
+script\helpstudio.js
+script\languagefilter.js
+script\webfavorites.js
+script\webhighlight.js
+script\webindex.js
+script\webnav.js
+script\webutility.js
+stylesheets\help2.css
+stylesheets\helpstudio.css
+stylesheets\languagefilter.css
+stylesheets\webnav.css
+_index_entry_not_found.html
+_topic_not_found.html
+HHC3004: Warning: EventMessagesPanel.html : The HTML tag "?xml:namespace prefix = v ns = "urn:schemas-micros..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: EventMessagesPanel.html : The HTML tag "?xml:namespace prefix = o ns = "urn:schemas-micros..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+EventMessagesPanel.html
+HHC3004: Warning: Online_Titles.html : The HTML tag "?xml:namespace prefix = v ns = "urn:schemas-micros..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: Online_Titles.html : The HTML tag "?xml:namespace prefix = o ns = "urn:schemas-micros..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+Online_Titles.html
+glossary.html
+stopwordlist.txt
+stylesheets\customstyles.css
+images\feed.png
+images\joystick.gif
+images\computer.png
+images\gamepad.png
+images\computer_go.png
+NavigationTabsAndMenus.hhc
+NavigationTabsAndMenus.hhk
+
+Compile time: 0 minutes, 1 second
+7	Topics
+9	Local links
+0	Internet links
+0	Graphics
+
+
+Created c:\Documents and Settings\mchaves\My Documents\Apps\GLUE\Global Rollout\Reference Docs\Manuals\WebStudio\Build\NavigationTabsAndMenus.chm, 52,943 bytes
+Compression decreased file by 125,405 bytes.
+

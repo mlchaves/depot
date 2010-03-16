@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Pragprog Books Online Store - Yeah</title>
+		<%= stylesheet_link_tag "depot", :media => "all" %>
+	</head>
+	<body id="store">
+		<div id="banner">
+			<%= image_tag("logo.png") %>
+			<%= @page_title || "Pragmatic Bookshelf" %>
+
+			<!-- %= button_to "?", :action => 'show_help', :title => 'Online Titles' % -->
+
+		</div>
+		<div id="column">
+			<div id="side">
+				<div id="cart">
+					<%= render(:partial => "cart", :object => @cart) %>
+				</div>
+				<a href="/store">Home</a><br />
+				<a href="/faq">Questions</a><br />
+				<a href="/news">News</a><br />
+				<a href="/contact">Contact</a><br />
+				<p>
+					<br /><br /><br />
+				  	<%= chatty_time_and_date %>
+				</p>
+			</div>
+			<div id="main">
+				<!-- display any error messages -->
+				<% if flash[:notice] -%>
+				  <div id="notice"><%= flash[:notice] %></div>
+				<% end -%>
+				
+				<%= yield :layout %>
+			</div>
+		</div>
+	</body>
+</html>

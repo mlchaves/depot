@@ -1,0 +1,28 @@
+<!-- Store Index -->
+
+<h1>Your Pragmatic Catalog
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<%= link_to(image_tag("help.gif", :border => "0"),
+            { :action => 'show_help',
+              :title => 'Online Titles',
+              :controller => 'help'
+            },
+            :popup => ['Help', 'width=700,height=550'])
+%>
+</h1>
+
+<% for product in @products -%>
+  <div class="entry">
+    <%= link_to image_tag(product.image_url, :border => "0"), 
+                :method => :post, 
+                :action => 'add_to_cart',
+                :id => product %>
+	<h3><%=h product.title %></h3>
+	<%= product.description %>
+	<div class="price-line">
+	  <span class="price"> <%= number_to_currency(product.price) %></span>
+	  <%= button_to "Add to Cart", :action => 'add_to_cart', :id => product %>
+	</div>
+  </div>
+<% end %>

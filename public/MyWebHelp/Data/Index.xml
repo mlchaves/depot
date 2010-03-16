@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetIndex Count="17">
+    <IndexEntry>
+        <Entries>
+            <IndexEntry Term="Address">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor17" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Company">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor7" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Concepts">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Getting Started " Link="/Content/Getting_Started/Getting Started.htm#kanchor5" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Contact">
+                <Entries>
+                    <IndexEntry Term="Address">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor16" UsedConditions="" />
+                        </Links>
+                    </IndexEntry>
+                    <IndexEntry Term="Email">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor14" UsedConditions="" />
+                        </Links>
+                    </IndexEntry>
+                    <IndexEntry Term="Phone">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor11" UsedConditions="" />
+                        </Links>
+                    </IndexEntry>
+                </Entries>
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor10" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Drop down text">
+                <Entries />
+                <Links>
+                    <IndexLink Title="What's New" Link="/Content/Whats new.htm#kanchor4" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Email">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor15" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Fax">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor13" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="History">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor8" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Mission">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor9" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Phone">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Information" Link="/Content/Contacting/Information.htm#kanchor12" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Preview">
+                <Entries />
+                <Links>
+                    <IndexLink Title="What's New" Link="/Content/Whats new.htm#kanchor3" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Structure">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Getting Started " Link="/Content/Getting_Started/Getting Started.htm#kanchor6" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="Using this sample">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Introduction" Link="/Content/Introduction.htm#kanchor1" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+            <IndexEntry Term="What's New">
+                <Entries />
+                <Links>
+                    <IndexLink Title="What's New" Link="/Content/Whats new.htm#kanchor2" UsedConditions="" />
+                </Links>
+            </IndexEntry>
+        </Entries>
+        <Links />
+    </IndexEntry>
+</CatapultTargetIndex>

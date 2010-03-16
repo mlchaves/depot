@@ -1,0 +1,101 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1
+Compiled file=C:\Documents and Settings\mchaves\My Documents\Apps\GLUE\Global Rollout\Reference Docs\Manuals\WebStudio\Build\NavigationTabsAndMenus.chm
+Contents file=NavigationTabsAndMenus.hhc
+Default Window=Default
+Default Font=,8,1
+Default topic=EventMessagesPanel.html
+Display compile progress=Yes
+Full-text search=Yes
+Index file=NavigationTabsAndMenus.hhk
+Language=0x409 English (United States)
+Title=NavigationTabsAndMenus
+
+[WINDOWS]
+Default="NavigationTabsAndMenus","NavigationTabsAndMenus.hhc","NavigationTabsAndMenus.hhk","EventMessagesPanel.html","EventMessagesPanel.html",,,,,0x63520,200,0x380e,[0,0,600,400],,,,,,,0
+
+[FILES]
+images\collapse.gif
+images\copycode.gif
+images\copycodeHighlight.gif
+images\drpdown.gif
+images\drpdown_orange.gif
+images\expand.gif
+images\toolbar\addtofavorites.gif
+images\toolbar\addtofavoriteshot.gif
+images\toolbar\deletesm.gif
+images\toolbar\favorites.gif
+images\toolbar\favoriteshot.gif
+images\toolbar\index.gif
+images\toolbar\indexhot.gif
+images\toolbar\navback.gif
+images\toolbar\navbackhot.gif
+images\toolbar\navforward.gif
+images\toolbar\navforwardhot.gif
+images\toolbar\navhome.gif
+images\toolbar\navhomehot.gif
+images\toolbar\navrefresh.gif
+images\toolbar\navrefreshhot.gif
+images\toolbar\print.gif
+images\toolbar\printhot.gif
+images\toolbar\resetsearch.gif
+images\toolbar\resetsearchhot.gif
+images\toolbar\search.gif
+images\toolbar\searchhot.gif
+images\toolbar\seperator.gif
+images\toolbar\tabfavorites.gif
+images\toolbar\tabindex.gif
+images\toolbar\tabsearch.gif
+images\toolbar\tabtoc.gif
+images\toolbar\toc.gif
+images\toolbar\tochot.gif
+images\toolbar\togglenav.gif
+images\toolbar\togglenavhot.gif
+script\fts.js
+script\helpstudio.js
+script\languagefilter.js
+script\webfavorites.js
+script\webhighlight.js
+script\webindex.js
+script\webnav.js
+script\webutility.js
+stylesheets\help2.css
+stylesheets\helpstudio.css
+stylesheets\languagefilter.css
+stylesheets\webnav.css
+_index_entry_not_found.html
+_topic_not_found.html
+EventMessagesPanel.html
+Online_Titles.html
+glossary.html
+stopwordlist.txt
+stylesheets\customstyles.css
+images\feed.png
+images\joystick.gif
+images\computer.png
+images\gamepad.png
+images\computer_go.png
+
+
+
+[MAP]
+
+#define IDH_{CE2AD174-18C2-4087-A46B-10B609801038}_1 1
+
+
+
+[ALIAS]
+
+IDH_{CE2AD174-18C2-4087-A46B-10B609801038}_1 = EventMessagesPanel.html
+
+
+
+[MERGE FILES]
+
+
+
+
+[TEXT POPUPS]
+
+
